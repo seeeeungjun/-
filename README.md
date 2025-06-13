@@ -259,6 +259,13 @@ swiper를 사용해서 제작하였으며 메뉴를 클릭하면 중앙에 해�
 도/시 시/군/구 카테고리를 선택하면 그에 맞는 리스트가 나옵니다.  
 ![Image](https://github.com/user-attachments/assets/11bf8292-6c0d-4f94-bc67-26308334ad22)  
 메인 페이지에서 검색하고 매장찾기 버튼을 누르면 서브페이지와 연결되어 검색한 값을 표시합니다.  
+<br><br><br><br>
+
+### 서브페이지 : 창업안내  
+**뚜레쥬르 창업 안내 페이지** 
+<img src=""
+
+
 
 ## ⚙️ 개발 환경  
 - 사용 프로그램 : <img src="https://img.shields.io/badge/Vs code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>  
