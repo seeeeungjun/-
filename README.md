@@ -189,17 +189,18 @@ SNS 섹션은 4x2 그리드 레이아웃을 사용하여 이미지들을 깔끔�
 
 ### section5  매장 찾기
 <br><br>
-<div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/interparkvip.gif" width="800"/>
-</div><br>
-인터파크 VIP 회원에게 제공되는 할인 혜택이 적용된 작품을 소개하는 섹션입니다.
-다른 섹션과의 차별화를 위해 제목에 보라색 컬러를 적용하여 시각적 구분을 강조했습니다.
-작품 제목과 가격이 표시되는 부분은 글자 수와 관계없이 레이아웃이 틀어지지 않도록 일관된 형태로 설계되었습니다.
-<br><br><br>
+
+![매장찾기](https://github.com/user-attachments/assets/17043ec9-878f-4d30-9084-f84f4d7941b4)
+
+<br><br>
+해당 섹션은 매장찾기 섹션으로 뚜레쥬르 페이지를 방문자들에게 주위의 매장을 찾아볼 수 있도록 하였습니다.
+또한 뚜레쥬르의 마스코트 이미지를 넣어 시각적인 재미를 주었으며 뚜레쥬르의 슬로건과 소비자에게 믿음을 줄 수 있는 
+멘트를 넣어 소비자에게 다가갈 수 있도록 하였습니다
+<br>
 반응형 디자인은 다음과 같이 조정하였습니다.
-<div display="flex" align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/interparkvip.png" width="150"/>
- <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/interparkvip2.png" width="300"/>
+
+![모바일 매장찾기](https://github.com/user-attachments/assets/af145d26-e8a7-489c-b89f-e0a5c306f62d)
+
 </div>
 
 <br><br><br><br>
