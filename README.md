@@ -135,8 +135,9 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 
 반응형 디자인은 다음과 같이 조정하였습니다.<br>
 <div display="flex" align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%B5%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%A5%E1%86%AF%E1%84%90%E1%85%A2%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%BA.jpg" width="300"/>
- <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%B5%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%A5%E1%86%AF%E1%84%86%E1%85%A9%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF.jpg" width="300"/>
+  <img src="![image](https://github.com/user-attachments/assets/4fa1632b-1b2b-4d4d-b6ba-a9f82f5d3af0)
+" width="300"/>
+ 
 </div>
 <br><br><br><br>
 
