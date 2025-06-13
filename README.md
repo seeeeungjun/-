@@ -119,7 +119,7 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 ## 메인 페이지 
 <br><br>
 <div align="center">
-  <img src="https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5-%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8E%E1%85%A6.png" width="800"/>
+  !["https://github.com/yoondg/interparkticket-renewal/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5-%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8E%E1%85%A6.png" width="800"/>
 </div>
 <br><br>
 
