@@ -263,6 +263,9 @@ swiper를 사용해서 제작하였으며 메뉴를 클릭하면 중앙에 해�
 뚜레쥬르 예비 창업자들이 필요한 정보를 얻을 수 있도록 만들어졌으며, 
 창업에 필요한 핵심 정보가 빠르게 전달되도록 제작하였습니다.
 
+### 서브페이지 : 고객센터  
+**뚜레쥬르 고객센터 페이지** 
+
 
 ## ⚙️ 개발 환경  
 - 사용 프로그램 : <img src="https://img.shields.io/badge/Vs code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>  
