@@ -134,7 +134,7 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 <br><br><br>
 
 반응형 디자인은 다음과 같이 조정하였습니다.<br>
-<div display="flex" align="center">
+
  ![moimg](https://github.com/user-attachments/assets/0d8f6fd8-a79c-45a2-8f16-810e97b9173f)
 
 </div>
