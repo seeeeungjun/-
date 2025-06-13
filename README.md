@@ -198,7 +198,7 @@ SNS 섹션은 4x2 그리드 레이아웃을 사용하여 이미지들을 깔끔�
 멘트를 넣어 소비자에게 다가갈 수 있도록 하였습니다
 <br>
 반응형 디자인은 다음과 같이 조정하였습니다.
-
+<br><br><br>
 ![모바일 매장찾기](https://github.com/user-attachments/assets/af145d26-e8a7-489c-b89f-e0a5c306f62d)
 
 </div>
