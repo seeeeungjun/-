@@ -126,7 +126,7 @@ CJ푸드빌이 운영하는 신선한 베이커리 전문점입니다.
 ### section 1 메인 비주얼
 <br><br>
 <div align="center">
- ![Image](https://github.com/user-attachments/assets/8dca7da7-14a5-490c-a75d-f36df288ba4a)
+ <img src="https://github.com/user-attachments/assets/8dca7da7-14a5-490c-a75d-f36df288ba4a"/>
 </div><br>
 해당 영역은 뚜레쥬르 사이트 방문자들이 가장 먼저 보게될 화면으로 뚜레쥬르의 다양한 이벤트와 신메뉴등 홍보해야 할 요소들을
 메인 화면에서 확인 할 수 있도록 큰화면으로 구성하였으며 자동스와이프 기능과 페이지네이션등을 추가하여,
